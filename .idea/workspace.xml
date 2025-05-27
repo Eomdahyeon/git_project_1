@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5793baef-aab1-4e36-acde-db0935dc476f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonProject/main.py" afterDir="false" />
+    <list default="true" id="5793baef-aab1-4e36-acde-db0935dc476f" name="변경" comment="feat: 나눗셈 기능 구현">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Eomdahyeon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Eomdahyeon/git_project_1.git",
+    "accountId": "7a5a7265-8dc2-4505-81ac-d1f23d3fe852"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -43,7 +46,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +70,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748331810563</updated>
-      <workItem from="1748331811657" duration="352000" />
+      <workItem from="1748331811657" duration="5288000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 첫 파이썬 파일 생성">
+      <option name="closed" value="true" />
+      <created>1748332789699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748332789699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: README 작성">
+      <option name="closed" value="true" />
+      <created>1748333812935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748333812935</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: 나눗셈 기능 구현">
+      <option name="closed" value="true" />
+      <created>1748335010022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748335010022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 첫 파이썬 파일 생성" />
+    <MESSAGE value="docs: README 작성" />
+    <MESSAGE value="feat: 나눗셈 기능 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 나눗셈 기능 구현" />
   </component>
 </project>
